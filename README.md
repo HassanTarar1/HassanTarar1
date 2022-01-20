@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HassanTarar1
-- 👀 I’m interested in Development.
+- 👀 I’m interested in  Softare Development.
 - 🌱 I’m currently learning App development using Androdi Studio
-- 💞️ I’m looking to collaborate on App developement, Ethereum Blockchain and Cyber security Positions.
+- 💞️ I’m looking to collaborate on App developement, Ethereum Blockchain and Cyber security domains.
 - 📫 How to reach me 
-linkedin profile
+  --linkedin profile--
 https://pk.linkedin.com/in/hassan-ijaz-166366168?trk=people-guest_people_search-card
 
 <!---

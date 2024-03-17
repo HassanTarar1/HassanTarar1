@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HassanTarar1
-- 👀 I’m interested in  Softare Development.
-- 🌱 I’m currently learning App development using Android Studio
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning web and App development.
 - 💞️ I’m looking to collaborate on App developement, Ethereum Blockchain and Cyber security domains.
 - 📫 How to reach me 
   --linkedin profile--

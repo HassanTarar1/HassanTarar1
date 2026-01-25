@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @HassanTarar1
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning web and App development.
-- 💞️ I’m looking to collaborate on App developement, Ethereum Blockchain and Cyber security domains.
-- 📫 How to reach me 
-  --linkedin profile--
-https://pk.linkedin.com/in/hassan-ijaz-166366168?trk=people-guest_people_search-card
+👋 Hi, I’m @HassanTarar1  
 
-<!---
-HassanTarar1/HassanTarar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m a Software Engineer with experience in building scalable backend systems, RESTful APIs, and production-ready applications. I enjoy solving real-world problems and working on clean, maintainable code.  
+
+🌱 Currently exploring cloud technologies, system design, and AI-assisted development, while strengthening my full-stack capabilities.  
+
+💞️ Open to collaborating on backend systems, full-stack applications, AI-powered solutions, and innovative startup ideas.  
+
+🛠️ Tech Stack  
+- **Languages:** Java, JavaScript, SQL  
+- **Backend:** Spring Boot, REST APIs, Microservices  
+- **Frontend:** HTML, CSS, JavaScript (basic React exposure)  
+- **Databases:** MySQL, PostgreSQL  
+- **DevOps & Tools:** Git, GitHub, Docker, CI/CD fundamentals  
+- **Cloud & Platforms:** AWS (EC2, basics), Linux  
+- **Other:** API integrations, system design, application monitoring (New Relic, Elastic Search)  
+
+📫 How to reach me:  
+🔗 LinkedIn: https://pk.linkedin.com/in/hassan-ijaz-166366168

@@ -1,19 +1,25 @@
 👋 Hi, I’m @HassanTarar1  
 
-👀 I’m a Software Engineer with experience in building scalable backend systems, RESTful APIs, and production-ready applications. I enjoy solving real-world problems and working on clean, maintainable code.  
+💻 Software Engineer focused on building scalable backend systems and clean, production-ready applications.  
 
-🌱 Currently exploring cloud technologies, system design, and AI-assisted development, while strengthening my full-stack capabilities.  
+🚀 I enjoy solving real-world problems through efficient system design and maintainable code.  
 
-💞️ Open to collaborating on backend systems, full-stack applications, AI-powered solutions, and innovative startup ideas.  
+🌱 Currently exploring cloud technologies, AI-assisted development, and improving my full-stack skills.  
 
-🛠️ Tech Stack  
+🤝 Open to collaborating on backend systems, microservices, full-stack apps, and AI-driven solutions.  
+
+---
+
+## 🛠️ Tech Stack  
 - **Languages:** Java, JavaScript, SQL  
 - **Backend:** Spring Boot, REST APIs, Microservices  
-- **Frontend:** HTML, CSS, JavaScript (basic React exposure)  
+- **Frontend:** HTML, CSS, JavaScript (React – basic)  
 - **Databases:** MySQL, PostgreSQL  
-- **DevOps & Tools:** Git, GitHub, Docker, CI/CD fundamentals  
-- **Cloud & Platforms:** AWS (EC2, basics), Linux  
-- **Other:** API integrations, system design, application monitoring (New Relic, Elastic Search)  
+- **DevOps & Tools:** Git, GitHub, Docker, CI/CD  
+- **Cloud & Platforms:** AWS (EC2), Linux  
+- **Other:** API integrations, system design, monitoring (New Relic, Elasticsearch)  
 
-📫 How to reach me:  
-🔗 LinkedIn: https://pk.linkedin.com/in/hassan-ijaz-166366168
+---
+
+📫 Connect with me:  
+🔗 LinkedIn: https://pk.linkedin.com/in/hassan-ijaz-166366168  
